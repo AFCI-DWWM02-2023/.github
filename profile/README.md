@@ -1,8 +1,8 @@
 # DWWM#2 Dunkerque
 
 Promo Développeur Web et Web Mobile
-Du 24 Mai 2023 au ?? Février 2024
-Période de stage en entreprise : ?? novembre au ?? janvier 2024
+-- Du 24 Mai 2023 au ?? Février 2024
+-- Période de stage en entreprise : ?? novembre au ?? janvier 2024
 
 ## Languages and Tools
 
