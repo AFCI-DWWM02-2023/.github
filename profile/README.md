@@ -17,8 +17,6 @@ Promo Développeur Web et Web Mobile
 &nbsp;&nbsp;
 ![img_php](./profile/img/php.svg)
 &nbsp;&nbsp;
-![img_docker](./profile/img/docker.svg)
-&nbsp;&nbsp;
 ![img_bootstrap](./profile/img/bootstrap.svg)
 &nbsp;&nbsp;
 ![img_javascript](./profile/img/javascript.svg)
