@@ -40,60 +40,54 @@ Promo Développeur Web et Web Mobile
 | Developers | GitHub | REAC | Tangram | About-me |
 | :----: | :----: | :----: | :----: | :----: |
 |  | techno | techno | techno | techno |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Michael | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Kenza | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Nawal | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Dylan | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Omar | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Jeremy | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Tony | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Thomas | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Sekou | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Jason | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Nathan | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+
 
 ## Back-end
 
 | Developers | GitHub | REAC | Tangram | About-me |
 | :----: | :----: | :----: | :----: | :----: |
 |  | techno | techno | techno | techno |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Michael | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Kenza | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Nawal | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Dylan | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Omar | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Jeremy | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Tony | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Thomas | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Sekou | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Jason | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Nathan | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+
 
 ## Autre
 
 | Developers | GitHub | REAC | Tangram | About-me |
 | :----: | :----: | :----: | :----: | :----: |
 |  | techno | techno | techno | techno |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| xxx | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Michael | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Kenza | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Nawal | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Dylan | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Omar | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Jeremy | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Tony | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Thomas | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Sekou | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Jason | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Nathan | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+
 
 
 
