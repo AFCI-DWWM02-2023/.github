@@ -42,7 +42,7 @@ Promo Développeur Web et Web Mobile
 | Kenza | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
 | Nawal | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
 | Dylan | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
-| Omar | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
+| Omar | <a href="https://github.com/AFCI-DWWM02-2023/omar">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
 | Jeremy | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
 | Tony Co | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
 | Thomas | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> | <a href="https://github.com/#">🔗</a> |
